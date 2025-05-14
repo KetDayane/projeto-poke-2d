@@ -1,4 +1,5 @@
 import poke from './assets/pokeapi_256.png'
+import './Home.css'
 
 const Home = () => {
 
@@ -15,3 +16,4 @@ const Home = () => {
 }
 
 export default Home
+
